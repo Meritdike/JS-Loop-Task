@@ -73,7 +73,7 @@ teamMembers.forEach((teamMember) => {
         //console.log(teamMember);
 
     detail += `<div class="col-lg-4 col-md-6 col-12">
-                <div class="card border-0 mb-3">
+                <div class="card border-0 mb-3 d-flex justify-content-center align-items-center">
                     <div class="slide slide1 d-flex justify-content-center align-items-center position-relative">
                         <div class="content">
                             <div class="icon position-absolute top-0 start-0" style="width: 100%; height: 100%;">
