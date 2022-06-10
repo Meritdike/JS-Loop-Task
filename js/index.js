@@ -84,7 +84,7 @@ teamMembers.forEach((teamMember) => {
                     
                     <div class="slide slide2 d-flex justify-content-start align-items-center position-relative p-3">
                         <div class="content2">
-                            <h3 class="name text-center">${teamMember.name}</h3>
+                            <h3 class="name text-center fw-bold">${teamMember.name}</h3>
                             <p class="age">${teamMember.age}</p>
                             <p class="complexion">${teamMember.complexion}</p>
                             <p class="best-food">${teamMember.bestFood}</p>
