@@ -6,7 +6,7 @@
 }
 
 .card {
-    background-color: #e1e5ee !important;
+    background-color: #f3f7f4 !important;
 }
 
 .container .card .slide {
@@ -39,7 +39,7 @@ img {
 }
 
 .container .card .slide.slide2 {
-    background-color: #fff !important;
+    background-color: #f6f6f6 !important;
     transition: .8s;
     transform: translateY(-100px);
     box-shadow: 0 10px 20px rgba(0,0,0,0.4);
